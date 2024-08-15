@@ -18,8 +18,7 @@
 <br/>
 <br/>
 
-### Apaixonado por Tecnologia e Design, e por ajudar as pessoas através da programação 
-
+### Apaixonado por Codar e fazer Designes. Buscando uma oportunidade na área da tecnologia 
 <br/>
 <br/>
 
