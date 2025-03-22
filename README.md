@@ -12,6 +12,7 @@
 <img aligncenter alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img aligncenter alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img aligncenter alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img aligncenter alt="javascript" src="https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
 <br/>
