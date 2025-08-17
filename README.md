@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <script>
-  const h1 = document.getELementById("teste")
+  const h1 = document.getElementById("teste")
   var hello = "ola mundo"
 </script>
 
