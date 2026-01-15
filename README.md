@@ -19,19 +19,16 @@ Sou apaixonado por tecnologia, programação e design. Atualmente estou em const
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Front-end
-<div style="display: flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="width: 10%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" style="width: 10%"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" style="width: 10%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 10%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width: 10%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width: 10%"/>
-</div>
+
+* HTML
+* CSS
+* Javascript
+* React
 
 ### ⚙️ Back-end
 
 * Node.js
-* Express.js (em aprendizado)
+* Express.js
 * APIs REST
 
 ### 🧠 Outros conhecimentos
