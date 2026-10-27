@@ -2,6 +2,8 @@
   <img width="100%" src="./header.svg" alt="Ezequiel Magoga — Desenvolvedor Full Stack. React, TypeScript e Node.js. Programador na Inside Automação." />
 </a>
 
+**Quem sou eu?**
+
 Programador e suporte técnico na **Inside Automação**, onde desenvolvo ferramentas internas que resolvem problemas reais da operação. Estudo Sistemas de Informação na **Faculdade Impacta** e sigo uma trilha contínua de front-end e back-end na **Alura**.
 
 Gosto de construir o produto inteiro: modelar o banco, escrever a API e cuidar da interface até ela ficar boa de usar.
